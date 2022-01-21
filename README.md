@@ -1,3 +1,2 @@
-# cmsc388T-web-template
-
-Website Template for Project 3
+# Project 3- Link to my terp Connect
+https://www.terpconnect.umd.edu/~sshamoui/
