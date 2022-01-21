@@ -21,5 +21,5 @@ jobs:
           script: |
             cd sshamouilian.github.io
             git pull
-            cp ./* ../../pub/
+            cp -r ./* ../../pub/
             
